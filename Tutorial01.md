@@ -25,3 +25,6 @@ We could just render now, but it wouldn't look very good. We need textures and m
 ## Step Five
 
 This looks good, but the UFO needs a light beam. Go back into the Layout tab, and to Shift A, and do Mesh > Cone. Set its scale to 5, 5, and 15 for X, Y, and Z, respectablly.  Set its location X and Y to the same as the UFO's, and set the Z to whatever you think looks good. I choose 1.75.
+## Texturing the light beam.
+So, the light needs to look better.
+Create this shader ![shader preview](Screenshot%202020-09-19%20081259.png) Feel free to tweak the values, but I liked these.
